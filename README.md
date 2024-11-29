@@ -7,11 +7,11 @@ Este projeto tem como objetivo desenvolver e implementar uma abordagem eficiente
 ## Fluxo de Trabalho
 
 1. **Download das Sequências do SRA**
-   Obtém os dados de sequências brutas diretamente do Sequence Read Archive (SRA) para análise.
+    Obtém os dados de sequências brutas diretamente do Sequence Read Archive (SRA) para análise.
 
 2. **Limpeza e Qualidade das Sequências**
-   Remove bases de baixa qualidade e adaptadores das leituras, garantindo que apenas sequências de alta qualidade sejam usadas no alinhamento.
+    Remove bases de baixa qualidade e adaptadores das leituras, garantindo que apenas sequências de alta qualidade sejam usadas no alinhamento.
 
 3. **Alinhamento com a Referência de Wolbachia**
-   Realiza o mapeamento das sequências limpas contra o genoma de referência de Wolbachia, identificando correspondências exatas e regiões de interesse.
+    Realiza o mapeamento das sequências limpas contra o genoma de referência de Wolbachia, identificando correspondências exatas e regiões de interesse.
 
